@@ -1,0 +1,6 @@
+framework module Pods_RequestBySwift {
+  umbrella header "Pods-RequestBySwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
